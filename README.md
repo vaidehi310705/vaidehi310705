@@ -12,8 +12,8 @@ I'm passionate about building elegant and scalable full-stack applications with 
 
 ## 🚀 Selected Projects
 
-- **Personal Finance Tracker** — Smart app for categorizing expenses, tracking spending habits, and sending overspending alerts.  
-- **🎬 Movie Guide Application** — Interactive app using TMDB API for movie discovery and search.
+- <a href="https://github.com/vaidehi310705/Finance_tracker">**Personal Finance Tracker**</a> — Smart app for categorizing expenses, tracking spending habits, and sending overspending alerts.  
+- <a href="https://github.com/vaidehi310705/Movie_Guide">**🎬 Movie Guide Application**</a> — Interactive app using TMDB API for movie discovery and search.
 
 ---
 
@@ -38,8 +38,8 @@ I'm passionate about building elegant and scalable full-stack applications with 
 
 ## 🎓 Education
 
-**Bachelor of Science in Computer Science**  
-*Your University/College Name* — Expected Graduation: YYYY  
+**Bachelor of Engineering in Computer**  
+*Uiniversity of Mumbai* — Expected Graduation: 2027  
 Relevant coursework: Data Structures, Algorithms, Web Development, Databases
 
 ---
