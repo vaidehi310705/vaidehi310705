@@ -1,81 +1,66 @@
 <h1 align="center">Hi 👋, I'm Vaidehi Raut</h1>
-<h3 align="center">Aspiring Full-Stack Developer | AI Enthusiast | MERN Stack & Python Lover</h3>
+<h3 align="center">Aspiring Full-Stack Developer | MERN Stack Learner | Frontend & Mobile Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Building+cool+projects+with+MERN+%26+AI;Lover+of+clean+code+and+UI/UX;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=Web+Developer+%F0%9F%92%BB;Learning+MERN+Stack+%F0%9F%9A%80;Loves+Frontend+Design+%F0%9F%8C%9F;Always+Building+Something+Cool+%F0%9F%9B%A0" alt="Typing animation" />
 </p>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 🔭 I’m currently working on: **Full-Stack MERN & AI-powered apps**
-- 🌱 Learning: **FastAPI**, **ARIMA & LSTM for Forecasting**, **System Design**
-- 👨‍🎓 Education: Computer Science background with hands-on development
-- 💬 Ask me about: Web Development, AI integrations, Open Source, and Bootstrapping ideas
-- 🧠 Goals: Build SaaS products & contribute to real-world impact
-- ⚡ Fun fact: I enjoy creating UI clones, building with friends, and reading tech blogs!
+- 🌱 I'm currently learning the **MERN stack** and enjoy building clean, user-focused web apps
+- 💸 Built a **Personal Finance Tracker** to categorize expenses, track spending, and alert on overspending
+- 🎬 Also created a **Movie Guide App** that uses the TMDB API to explore and search movies  
+- 💻 Passionate about frontend development and UI/UX design  
+- 📱 Exploring mobile app development with **Flutter**  
+- ✨ Always excited to learn, build, and create beautiful, useful things
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Skills & Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+#### 👩‍💻 Languages  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
+</p>
 
----
+#### 🌐 Web & Mobile Development  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,flutter" />
+</p>
 
-### 📊 GitHub Stats
+#### 🗃️ Backend & Databases  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaidehiraut&show_icons=true&theme=github_dark&hide_title=true" alt="Vaidehi's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaidehiraut&theme=github-dark-blue" alt="Vaidehi's GitHub streak" />
+#### 🛠 Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva" />
 </p>
 
 ---
 
-### 📈 Contribution Graph
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaidehiraut&theme=github-compact" alt="activity graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vaidehi310705&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaidehi310705&theme=radical" height="150"/>
 </p>
 
 ---
 
-### 🧩 My Projects (Featured)
-
-- 💸 **[AI-Powered Finance Tracker](https://github.com/vaidehiraut/ai-finance-tracker)**  
-  Smart budget tracking using ML forecasting and spending pattern analysis
-
-- 🏘️ **[Property Listing App](https://github.com/vaidehiraut/property-listing)**  
-  Responsive MERN app with property filters, details, and agent contact
-
-- ⚖️ **[Legal Assistant (Hackathon MVP)](https://github.com/vaidehiraut/legal-assistant-india)**  
-  Built in 36 hours: NLP-powered assistant for Indian contract & property law
-
----
-
-### 📫 How to Reach Me
+### 📫 Connect with Me
 
 <p>
-  <a href="mailto:vaidehi@example.com"><img src="https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/vaidehiraut/"><img src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin"></a>
-  <a href="https://twitter.com/vaidehi_dev"><img src="https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter"></a>
-  <a href="https://vaidehiraut.dev"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel"></a>
+  <a href="mailto:vaidehiraut21@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/vaidehi-raut-9563052b9/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/vaidehi310705"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vaidehiraut&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=vaidehi310705&style=flat-square&color=blue" alt="Profile Views" />
 </p>
