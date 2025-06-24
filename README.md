@@ -23,7 +23,7 @@ I'm passionate about building elegant and scalable full-stack applications with 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" height="28" alt="Languages" />
 
 **Frontend:**  
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" height="28" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" height="28" alt="Frontend" />
 
 **Mobile:**  
 <img src="https://skillicons.dev/icons?i=flutter" height="28" alt="Mobile" />
