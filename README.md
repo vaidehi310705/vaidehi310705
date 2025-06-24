@@ -2,10 +2,6 @@
 
 ### Aspiring Full-Stack Developer | MERN Stack | Frontend & Mobile Enthusiast
 
----
-
-## 💡 About Me
-
 I'm passionate about building elegant and scalable full-stack applications with a focus on user experience. Currently sharpening my skills in MERN stack and Flutter for cross-platform mobile apps.
 
 ---
