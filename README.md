@@ -10,6 +10,14 @@ I'm passionate about building elegant and scalable full-stack applications with 
 
 ---
 
+## 🎓 Education
+
+**Bachelor of Engineering in Computer**  
+*Uiniversity of Mumbai* — Expected Graduation: 2027  
+Relevant coursework: Data Structures, Algorithms, Web Development, Databases
+
+---
+
 ## 🚀 Selected Projects
 
 - <a href="https://github.com/vaidehi310705/Finance_tracker">**Personal Finance Tracker**</a> — Smart app for categorizing expenses, tracking spending habits, and sending overspending alerts.  
@@ -33,14 +41,6 @@ I'm passionate about building elegant and scalable full-stack applications with 
 
 **Tools:**  
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva" height="28" alt="Tools" />
-
----
-
-## 🎓 Education
-
-**Bachelor of Engineering in Computer**  
-*Uiniversity of Mumbai* — Expected Graduation: 2027  
-Relevant coursework: Data Structures, Algorithms, Web Development, Databases
 
 ---
 
